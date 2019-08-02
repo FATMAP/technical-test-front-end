@@ -4,7 +4,7 @@ Thanks for applying to work at FATMAP. We have developed this small task for you
 
 Try to spend less than two hours on this task - and don't worry if it is not complete, we prefer to see quality over quantity.
 
-It's totally up to you how to implement the solution, feel free to use the language you feel most comfortable with and any JS/CSS frameworks that you prefer to use.
+Please implement the task with React.
 
 ## The task
 
